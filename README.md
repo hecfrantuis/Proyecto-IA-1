@@ -25,7 +25,7 @@ Implementar distintos modelos de aprendizaje supervisado y no supervisado, así 
 * Reducción dimensional con PCA
 
 ## **Presentación**
-* [Video de la presentación del proyecto en YouTube](AGREGA_EL_ENLACE_AQUÍ)
+* [Video de la presentación del proyecto en YouTube](https://youtu.be/AV33p6TSM8M?si=oZMaK2lZ150useRp)
 
 ### Diapositivas
 * [Presentación de la Fase 1](https://drive.google.com/file/d/1-WFlwAu90cOmDPwzY65fNGL8e5xSJE0l/view?usp=sharing)
