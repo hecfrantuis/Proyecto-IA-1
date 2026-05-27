@@ -3,7 +3,7 @@
 ![banner](https://drive.google.com/uc?export=view&id=1xXc0BMeni7py5uOj7yasuk6DI-aFd3Bq)
 
 ## **Autores**
-Andrés Rodríguez, Adrián Bernal y Héctor Franco.
+* Andres Felipe Rodriguez Galeano, Adrian Felipe Bernal Rodriguez y Hector Julian Franco Trujillo.
 
 ## **Objetivos**
 Implementar distintos modelos de aprendizaje supervisado y no supervisado, así como la aplicación de técnicas de reducción dimensional, para la clasificación automática de tipos de acné facial.
